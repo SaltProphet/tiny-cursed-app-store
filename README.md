@@ -12,7 +12,7 @@ A tiny app-store concept for agent-made tools, skill packs, and utility workflow
 
 ## What this is
 
-Tiny Cursed App Store is a concept artifact for packaging small agent tools and skill packs like a tiny utility shop instead of another sterile enterprise dashboard, because apparently every AI tool is legally required to look like a SaaS billing page now. Grim.
+Tiny Cursed App Store is a concept artifact for packaging small agent tools and skill packs like a tiny utility shop instead of another sterile AI dashboard.
 
 ## Current cards
 
@@ -48,7 +48,3 @@ Concept artifact / public proof packet.
 - Not paid client work
 - Not production deployment
 - Not external adoption proof
-
-## Repository purpose
-
-This repo exists as a public-facing proof artifact for agent-tool packaging, skill-pack concepts, and small utility workflow presentation.

@@ -1,0 +1,14 @@
+{
+  "slug": "tiny-cursed-app-store",
+  "title": "Tiny Cursed App Store",
+  "primary_image": "assets/tiny-cursed-app-store-social-card.png",
+  "secondary_image": "assets/tiny-cursed-app-store-workshop-scene.png",
+  "decision": "Use the readable app-store grid image as the GitHub/LinkedIn social card. Use the workshop robot image as the README/secondary mood image.",
+  "status": "concept artifact / public proof packet",
+  "not_claimed": [
+    "live marketplace",
+    "paid client work",
+    "production deployment",
+    "external adoption proof"
+  ]
+}
