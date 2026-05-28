@@ -25,15 +25,6 @@ Tiny Cursed App Store is a concept artifact for packaging small agent tools and 
 - **Workflow Composer** — compose, chain, and get things done.
 - **Pack Manager** — version, distribute, keep everything tidy.
 
-## Visual direction
-
-- handmade utility-shop feel
-- muted colors
-- readable card system
-- small robot/agent mascot energy
-- practical but slightly cursed
-- no neon cyberpunk nonsense
-
 ## Secondary visual
 
 ![Workshop scene](assets/workshop-scene.png)
